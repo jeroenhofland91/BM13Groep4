@@ -1,2 +1,0 @@
-sudo nano /etc/ssh/sshd_config
-PermitRootLogin no
